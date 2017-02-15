@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPolitica" value="name:IDPolitica;datatype:int,name:Titulo;datatype:string,name:Descripcion;datatype:string,name:RutaDocumento;datatype:string,name:UsuarioPublica;datatype:string,name:FechaPublica;datatype:date,name:Activa;datatype:int" />
+	<infoitem key="UD_rsUsuario" value="name:IDUsuario;datatype:int,name:Usuario;datatype:string,name:Nombre;datatype:string,name:Correo;datatype:string,name:Activo;datatype:int" />
+</info>
